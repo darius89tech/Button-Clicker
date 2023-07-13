@@ -1,0 +1,33 @@
+.button1 {
+    width: 170px;
+    border-radius: 30px;
+    height: 30px;
+    border-color: aqua;
+    color: aqua;
+    background-color: azure;
+    font-weight: 1000;
+}
+
+.button2 {
+    border-radius: 70%;
+    border-color: rgb(96, 201, 236);
+    color: rgb(96, 201, 236);
+}
+
+.button3{
+    width:260px;
+    height: 50px;
+    background-color: rgb(3, 129, 192);
+    font-weight: 400;
+    box-shadow: 5px 8px 5px 5px black;
+    color: white;
+    font-weight: 1000;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    border-radius: 66%;
+    border-color: rgb(96, 201, 236);
+    background-color: rgb(96, 201, 236);
+}
